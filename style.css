@@ -180,11 +180,89 @@ body{
 
 #about-page{
     position:fixed;
-    width: 100%;
-    height: 100%;
-    top: 0px;
-    left: 0px;
-    right: 0px;
-    bottom: 0px;
+    width: 1300px;
+    height: 850px;
+    border-radius: 20px;
+    top: 10px;
+    left: 10px;
+    right: 10px;
+    bottom: 10px;
+    background-color:white;
+    box-shadow: 10px 10px 30px black;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 10px;
+    display: none;
+}
+
+#about-hc{
+    background-color: rgb(233, 87, 87);
+    padding: 10px;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    text-decoration: none;
+    transition: 0.3s;
+}
+#about-hc:hover{
+  background-color: white;
+  color: black;
+  border: 2px solid black;
+}
+#about-close{
+    position: absolute;
+    right: 20px;
+    top: 10px;
+    background-color: rgb(235, 103, 103);
+    border-radius: 24px;
+    transition: 0.3s;
+}
+#about-close:hover{
+    transform: scale(1.04);
+}
+
+.about-texts{
+    background-color: black;
+    color: white;
+    margin-top: 20px;
+    width: max-content;
+    padding: 20px;
+    border-radius: 10px;
+    transition: 0.3s;
+}
+.about-texts:hover{
     background-color: white;
+    color: black;
+    border: 2px solid black;
+    transform: scale(1.03);
+}
+.about-hc-text{
+    margin-top: 30px;
+    background-color: rgba(0, 0, 0, 0.534);
+    padding: 20px;
+    border-radius: 15px;
+    font-size: 20px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+.about-hc-text:hover{
+    transform: scale(1.02)translateY(10px);
+}
+#about-do{
+    text-align: center;
+    font-weight: bold;
+    background-color: rgba(0, 0, 0, 0.336);
+    width: max-content;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    line-height: 30px;
+    padding: 10px;
+    border-radius: 10px;
+    transition: 0.3s;
+}
+#about-do:hover{
+    transform: scale(1.03);
+    background-color: white;
+    color: dark;
+    box-shadow: 10px 10px 30px black;
 }

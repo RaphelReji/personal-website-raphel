@@ -11,10 +11,11 @@
 
     <div id="nav-items">
        
-          <ul><a href="#">HOME</a></ul>  
-          <ul> <a href="#">ABOUT<a></ul> 
-           <ul> <a href="#">PROJECTS</a></ul>
-          <ul><a href="#">CONTACT</a> </ul>   
+          <ul><a href="index.html">HOME</a></ul>  
+          <ul> <a href="#" onclick="aboutopens()">ABOUT<a></ul> 
+           <ul> <a href="#" onclick="projectsopens()">PROJECTS</a></ul>
+          <ul><a href="#" onclick="contactopens()">CONTACT</a> </ul>
+
        <button onclick="settings()" id="settings-btn">Settings</button>
     </div>
 
@@ -61,15 +62,38 @@
 
 
     <div id="about-page">
-        <button id="about-closebtn">X</button>
+        <img src="images/close.png" id="about-close" onclick="aboutclose()">
          <H1 class="about-me-h1">ABOUT ME</H1>
          <hr>
 
-         <div>Nothing more just a guy,who tries to learn all dev.lang in one,such a fool</div>
-         <div>So my name is raphel, a 16 year old,who have a little bit of experience with coding(just 2 months)</div>
+         <div class="about-texts">Nothing more just a guy,who tries to learn all dev.lang in one,such a fool</div>
+         <div class="about-texts">So my name is raphel, a 16 year old,who have a little bit of experience with coding(just 2 months)</div>
 
-         <div>I started coding after joining hackclub.Don't know about Hackclub just click here<button>Hackclub</button></div>
-      
+         <div class="about-hc-text">
+            I started coding after joining hackclub.Don't know about Hackclub just
+             click here<a id="about-hc" href="https://hackclub.com" target="_blank">Hackclub</a>
+            </div>
+
+        <div id="about-do">
+            <h2>What i 🤍 to do</h2>
+            <div>playing games</div>
+            <div>explore new techs</div>
+            <div>learn new things</div>
+            <div>i like pets(but idh one)</div>
+        </div>
+
+    </div>
+
+
+       <div id="projects-page">
+        <img src="images/close.png" id="about-close" onclick="aboutclose()">
+         <H1 class="about-me-h1">AB</H1>
+         <hr>
+
+         <div class="about-texts">Nothing more just a guy,who tries to learn all dev.lang in one,such a fool</div>
+         <div class="about-texts">So my name is raphel, a 16 year old,who have a little bit of experience with coding(just 2 months)</div>
+
+
     </div>
 
 

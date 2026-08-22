@@ -59,3 +59,19 @@ function techstack(){
         tech.style.display="block";
     }
 }
+
+function aboutclose(){
+    let aboutpage=document.getElementById("about-page");
+    aboutpage.style.display="none";
+}
+
+function aboutopens(){
+    let aboutpage=document.getElementById("about-page");
+    if (aboutpage.style.display==="block"){
+        aboutpage.style.display="none";
+    }
+
+    else{
+        aboutpage.style.display="block";
+    }
+}
