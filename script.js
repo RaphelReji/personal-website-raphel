@@ -27,6 +27,9 @@ function nightimg(){
 
     let nightsettings=document.getElementById("nightbtn-image")
     nightsettings.style.border="3px solid red";
+
+    let themeinfo=document.getElementById("theme-info");
+    themeinfo.textContent="THEME:NIGHT";
 }
 
 function dayimg(){
@@ -35,9 +38,24 @@ function dayimg(){
 
     let daysettings=document.getElementById("daybtn-image")
     daysettings.style.border="3px solid red";
+
+    let themeinfo=document.getElementById("theme-info");
+    themeinfo.textContent="THEME:DAY";
 }
 
 function closebtn(){
     let settingswindow=document.getElementById("settings-window");
     settingswindow.style.display="none";
+}
+
+
+function techstack(){
+    let tech=document.getElementById("tech-stack");
+    if (tech.style.display==="block"){
+        tech.style.display="none";
+    }
+
+    else{
+        tech.style.display="block";
+    }
 }
