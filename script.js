@@ -9,3 +9,14 @@ function startMenu(){
         menu.style.display="block";
     }
 }
+
+function settings(){
+    let settingswindow=document.getElementById("settings-window");
+  if  (settingswindow.style.display==="block"){
+    settingswindow.style.display="none";
+  }
+
+  else{
+    settingswindow.style.display="block";
+  }
+}
