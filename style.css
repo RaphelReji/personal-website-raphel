@@ -266,3 +266,49 @@ body{
     color: dark;
     box-shadow: 10px 10px 30px black;
 }
+#projects-page{
+    position:fixed;
+    width: 1300px;
+    height: 850px;
+    border-radius: 20px;
+    top: 10px;
+    left: 100px;
+    right: 10px;
+    bottom: 10px;
+    background-color:white;
+    box-shadow: 10px 10px 30px black;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 10px;
+
+}
+#project-grid{
+    display: grid;
+    grid-template-columns: 400px 400px;
+    margin-left:200px;
+    column-gap: 50px;
+    row-gap: 30px;
+    border-radius: 20px;
+    padding: 10px;
+}
+.project-coloum{
+    background-color: darkgray;
+    width: max-content;
+    border: 2px solid black;
+}
+.project-coloum img{
+      width:400px;
+      padding: 10px;
+}
+.coulum-text{
+    font-weight: bold;
+    text-align: center;
+
+}
+.coulum-img img{
+    width: 60px;
+}
+.coloum-grid{
+    display: grid;
+    grid-template-columns: 1fr 100px;
+    align-items: center;
+}
