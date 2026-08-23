@@ -8,6 +8,9 @@ function startMenu(){
     else{
         menu.style.display="block";
     }
+
+     let arrow=document.getElementById("arrow-box");
+    arrow.style.display="none"
 }
 
 function settings(){

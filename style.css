@@ -369,3 +369,30 @@ body{
    border-radius: 10px;
    display: none;
 }
+.footer{
+    color: white;
+    text-align: center;
+    position:fixed;
+    bottom: 5px;
+    text-decoration: underline;
+}
+#footer-gif{
+    position:fixed;
+    width: 50px;
+    bottom: 5px;
+}
+#arrow{
+    position:fixed;
+    right: 10px;
+    top: 90px;
+}
+.arrow{
+    position: fixed;
+    right: 10px;
+    top:70px;
+    color: white;
+    transition: 0.3s;
+}
+.arrow:hover{
+   transform: translateY(-10px);
+}
