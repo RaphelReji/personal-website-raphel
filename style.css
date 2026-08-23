@@ -396,3 +396,21 @@ body{
 .arrow:hover{
    transform: translateY(-10px);
 }
+
+.quote{
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    width: max-content;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 250px;
+    margin-top: 30px;
+    transition: 0.3s;
+}
+.quote:hover{
+    background-color: rgba(255, 255, 255, 0.281);
+    color: black;
+    transform: scale(1.05);
+}

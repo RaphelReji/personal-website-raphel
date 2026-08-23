@@ -1,2 +1,63 @@
-# personal-website-raphel
+# WildPortfolio
+
+This is my first website using js iam so happy to use well in this website
+It is a simple nature themed portfolio which is super responsive and interactive.
+It includes my coding way,projects,contact etc.... Its main highlight is the the nature theme.If you like it give it a star.
+
+## Live Demo
+
+[Open the live website](YOUR-LIVE-LINK)
+
+## Screenshots
+
+![home](readmeimages/portfoliohome.png)
+![about](readmeimages/portfolioabout.png)
+![projects](readmeimages/portfolioprojects.png)
+![contact](readmeimages/portfoliocontact.png)
+![settings](readmeimages/portfoliosettings.png)
+
+## Features
+
+- A nature themed portfolio
+- used javascript to make it responsive 
+- a unique nav bar
+- changable background
+- click the profile picture to view my tech stacks
+- you can change settings in the menu
+
+## Built With
+
+- HTML
+- CSS
+- javascript
+
+## Installation to run locally
+
+1. Clone this repository:
+
+git clone
+
+2. Open the project folder in VS Code or any code editor.
+
+3. Open `index.html` in your browser.
+
+### How It Works
+
+You can explore my portfolio through many section.you can change the settings by go to menu
+
+## Design
+A nature blended theme is selected for my portfolio
+
+## What I Learned
+
+- Lot of html,css and mainly js concepts as a beginner
+- learned the basics of how javascript works
+
+## Credits
+
+- Images and assets: copyright belong to the rightful owner.Icons are taken from icon8.
+
+## License
+
+This project was created for Hack Club Macondo under MIT-do what ever with it.
 
