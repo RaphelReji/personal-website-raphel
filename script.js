@@ -75,3 +75,36 @@ function aboutopens(){
         aboutpage.style.display="block";
     }
 }
+
+function projectsopens(){
+    let projectspage=document.getElementById("projects-page");
+    if (projectspage.style.display==="block"){
+        projectspage.style.display="none";
+    }
+
+    else{
+        projectspage.style.display="block";
+    }
+}
+
+function projectsclose(){
+    let projectspage=document.getElementById("projects-page");
+    projectspage.style.display="none";
+}
+
+
+function contactopens(){
+    let contactpage=document.getElementById("contact-page");
+    if (contactpage.style.display==="block"){
+        contactpage.style.display="none";
+    }
+
+    else{
+        contactpage.style.display="block";
+    }
+}
+
+function contactclose(){
+    let contactpage=document.getElementById("contact-page");
+    contactpage.style.display="none";
+}

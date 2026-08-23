@@ -279,6 +279,7 @@ body{
     box-shadow: 10px 10px 30px black;
     font-family: 'Courier New', Courier, monospace;
     padding: 10px;
+    display: none;
 
 }
 #project-grid{
@@ -311,4 +312,53 @@ body{
     display: grid;
     grid-template-columns: 1fr 100px;
     align-items: center;
+}
+
+#contact-page{
+    position:fixed;
+    width: 800px;
+    height: max-content;
+    border-radius: 20px;
+    top: 10px;
+    left: 100px;
+    right: 10px;
+    bottom: 10px;
+    background-color:white;
+    box-shadow: 10px 10px 30px black;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 10px;
+    display: none;
+}
+.contact-img{
+    width: 100px;
+    transition: 0.3s;
+    margin-left: 10px;
+    
+}
+.contact-img:hover{
+    transform: scale(1.03);
+}
+#contact-cat{
+    width: 100px;
+    border-radius: 20px;
+    border: 2px solid;
+    margin-left: 300px;
+    transition: 0.3s;
+}
+#contact-cat:hover{
+    transform: scale(1.04);
+    filter: grayscale(1);
+}
+#contact-cat-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.contact-cat-reply{
+   background-color: transparent;
+   box-shadow: 10px 10px 40px black;
+   width: fit-content;
+   height: fit-content;
+   padding: 10px;
+   border-radius: 10px;
+   display: none;
 }
