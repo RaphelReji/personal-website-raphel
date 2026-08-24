@@ -40,6 +40,11 @@ It includes my coding way,projects,contact etc.... Its main highlight is the the
 ```bash
 git clone https://github.com/RaphelReji/personal-website-raphel.git
 ```
+repository url:
+```bash
+git clone https://github.com/RaphelReji/personal-website-raphel
+```
+
 2. Open the project folder in VS Code or any code editor.
 
 3. Open `index.html` in your browser.
