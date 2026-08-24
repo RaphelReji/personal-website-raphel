@@ -38,7 +38,9 @@ It includes my coding way,projects,contact etc.... Its main highlight is the the
 
 1. Clone this repository:
 
-git clone https://github.com/RaphelReji/personal-website-raphel.git
+```bash
+git clone  https://github.com/RaphelReji/personal-website-raphel.git
+```
 
 2. Open the project folder in VS Code or any code editor.
 
