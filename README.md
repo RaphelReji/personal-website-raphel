@@ -37,11 +37,9 @@ It includes my coding way,projects,contact etc.... Its main highlight is the the
 ## Installation to run locally
 
 1. Clone this repository:
-
 ```bash
-git clone  https://github.com/RaphelReji/personal-website-raphel.git
+git clone https://github.com/RaphelReji/personal-website-raphel.git
 ```
-
 2. Open the project folder in VS Code or any code editor.
 
 3. Open `index.html` in your browser.
