@@ -6,7 +6,7 @@ It includes my coding way,projects,contact etc.... Its main highlight is the the
 
 ## Live Demo
 
-[Open the live website](LINK)
+[Open the live website](https://raphelreji.github.io/personal-website-raphel/)
 
 ## Screenshots
 
@@ -38,7 +38,7 @@ It includes my coding way,projects,contact etc.... Its main highlight is the the
 
 1. Clone this repository:
 
-git clone
+git clone https://github.com/RaphelReji/personal-website-raphel.git
 
 2. Open the project folder in VS Code or any code editor.
 
