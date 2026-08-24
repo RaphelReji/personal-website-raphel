@@ -10,7 +10,7 @@ function startMenu(){
     }
 
      let arrow=document.getElementById("arrow-box");
-    arrow.style.display="none"
+    arrow.style.display="none";
 }
 
 function settings(){
@@ -25,10 +25,10 @@ function settings(){
 }
 
 function nightimg(){
-    let body=document.getElementById("body")
-    body.style.backgroundImage="url(images/night.jpg)"
+    let body=document.getElementById("body");
+    body.style.backgroundImage="url(images/night.jpg)";
 
-    let nightsettings=document.getElementById("nightbtn-image")
+    let nightsettings=document.getElementById("nightbtn-image");
     nightsettings.style.border="3px solid red";
 
     let themeinfo=document.getElementById("theme-info");
@@ -36,10 +36,10 @@ function nightimg(){
 }
 
 function dayimg(){
-    let body=document.getElementById("body")
-    body.style.backgroundImage="url(images/day.jpg)"
+    let body=document.getElementById("body");
+    body.style.backgroundImage="url(images/day.jpg)";
 
-    let daysettings=document.getElementById("daybtn-image")
+    let daysettings=document.getElementById("daybtn-image");
     daysettings.style.border="3px solid red";
 
     let themeinfo=document.getElementById("theme-info");

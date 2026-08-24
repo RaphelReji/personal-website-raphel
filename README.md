@@ -1,12 +1,12 @@
 # WildPortfolio
 
-This is my first website using js iam so happy to use well in this website
+This is my first website using js i am so happy to use it well in this website
 It is a simple nature themed portfolio which is super responsive and interactive.
-It includes my coding way,projects,contact etc.... Its main highlight is the the nature theme.If you like it give it a star.
+It includes my coding way,projects,contact etc.... Its main highlight is the the nature theme.If you like it give it a star.It is very proud to complete this project 
 
 ## Live Demo
 
-[Open the live website](YOUR-LIVE-LINK)
+[Open the live website](LINK)
 
 ## Screenshots
 
@@ -24,6 +24,9 @@ It includes my coding way,projects,contact etc.... Its main highlight is the the
 - changable background
 - click the profile picture to view my tech stacks
 - you can change settings in the menu
+- cool hover animation in the heading
+- click the github icon in projects to view my projects
+- click the icons in the contact to contact me
 
 ## Built With
 
@@ -43,7 +46,7 @@ git clone
 
 ### How It Works
 
-You can explore my portfolio through many section.you can change the settings by go to menu
+You can explore my portfolio through many section.you can change the settings by go to menu and other pages like a software window.
 
 ## Design
 A nature blended theme is selected for my portfolio
@@ -55,7 +58,8 @@ A nature blended theme is selected for my portfolio
 
 ## Credits
 
-- Images and assets: copyright belong to the rightful owner.Icons are taken from icon8.
+- Images and assets: copyright belong to the rightful owner.
+- Icons are taken from icon8.
 
 ## License
 
