@@ -33,22 +33,7 @@ It includes my coding way,projects,contact etc.... Its main highlight is the the
 - HTML
 - CSS
 - javascript
-
-## Installation to run locally
-
-1. Clone this repository:
-```bash
-git clone https://github.com/RaphelReji/personal-website-raphel.git
-```
-repository url:
-```bash
-git clone https://github.com/RaphelReji/personal-website-raphel
-```
-
-2. Open the project folder in VS Code or any code editor.
-
-3. Open `index.html` in your browser.
-
+  
 ### How It Works
 
 You can explore my portfolio through many section.you can change the settings by go to menu and other pages like a software window.
