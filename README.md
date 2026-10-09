@@ -53,5 +53,5 @@ A nature blended theme is selected for my portfolio
 
 ## License
 
-This project was created for Hack Club Macondo under MIT-do what ever with it.
+This project was created  under MIT-do what ever with it.
 
