@@ -1,8 +1,7 @@
 # WildPortfolio
 
-This is my first website using js i am so happy to use it well in this website
-It is a simple nature themed portfolio which is super responsive and interactive.
-It includes my coding way,projects,contact etc.... Its main highlight is the the nature theme.If you like it give it a star.It is very proud to complete this project 
+This is my first website using JS, and I am so happy to use it well in this website. It is a simple, nature-themed portfolio that is super responsive and interactive. It includes my coding journey, projects, contact details, etc. Its main highlight is the nature theme. If you like it, give it a star. I am very proud to have completed this project!
+
 
 ## Live Demo
 
